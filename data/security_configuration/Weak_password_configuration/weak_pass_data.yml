@@ -1,0 +1,17 @@
+data1:
+  "code": "weak-config"
+data2:
+  "configEnable": true
+  "storeEnable": true
+  "isContainNumber": true
+  "isContainLowercase": true
+  "isContainCapital": true
+  "isSize": true
+  "size": 8
+  "isContainSpecialChar": true
+  "specialChar": "%"
+  "isRegularExpression": true
+  "regularExpression": "aa"
+data3:
+    "enable": false # true 使能 false #禁用
+    "type": "CONFIG" # CONFIG 弱口令规则配置 STORE 弱口令库

@@ -1,0 +1,22 @@
+data1:
+  "currentPage": 1
+  "itemsPerPage": 20
+  "organizationId": ""
+  "organizationName": ""
+  "organizationType": ""
+  "orderName": "organization_name"
+  "orderWay": 1
+data2:
+  "organization_name": "111"
+  "organization_type": 1
+  "parentId": 1
+data3:
+  "id": 100000001
+  "organization_name": "111"
+  "organization_type": 1
+  "parentId": 1
+data4:
+  "parentId": 1
+  "organizationIds": "100000001"
+data5:
+  "organizationIds": "100000001"

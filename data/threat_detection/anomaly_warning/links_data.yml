@@ -1,0 +1,84 @@
+alarmID:
+  100048121
+data1:
+  "alarmType": 3
+  "protocols": []
+  "serverity": []
+  "idsTypes": []
+  "parentTypes": null
+  "group": true
+  "keyword": ""
+  "disposeTypes": [
+    0,
+    1
+  ]
+  "deviceIdList": [
+    100000001
+  ]
+  "from": 0
+  "size": 20
+  "orderBy": "start_time"
+  "orderSort": "desc"
+  "startTime": 1700709511240
+  "endTime": 1700795911240
+data2:
+  "needGroupAlarm": true
+  "types": [
+    35,
+    37,
+    1006,
+    1007
+  ]
+  "tsaTypes": null
+  "parentTypes": null
+  "startTime": 1700709511240
+  "endTime": 1700795911240
+  "deviceIdList": [
+    100000001
+  ]
+data3:
+  "dstIp": "192.168.124.5"
+  "dstMac": "00:21:9b:30:a1:78"
+  "latestTime": 1700732293425
+  "protocol": "modbus"
+  "srcIp": "192.168.124.4"
+  "srcMac": "00:21:9b:30:a2:25"
+  "startTime": 1700731413441
+data4:
+  [
+    {
+      "alarmId": 100048121,
+      "description": "",
+      "disposeType": 1
+    }
+  ]
+data5:
+  "deviceId": 100000001
+  "srcIp": "44.178.19.195"
+  "srcMac": ""
+  "dstIp": "118.184.31.68"
+  "dstMac": ""
+  "protocol": "29west"
+data6:
+  "id": 100001338
+  "src_ip": "44.178.19.195"
+  "src_mac": "",
+  "dst_ip": "118.184.31.68"
+  "dst_mac": ""
+  "protocol": "29west"
+  "trans_proto": "any"
+  "sport": "any"
+  "dport": "any"
+  "link_flag": true
+  "timeout": 600
+  "alert_severity_id": 2
+  "rule_name": "链路异常"
+  "frame_flag": true
+  "no_frame_time": 300
+  "frame_severity_id": 2
+  "frame_desc": "长时间无通信"
+  "enable": 1
+  "device_id": 100000001
+  "transProto": "any"
+  "flag": true
+

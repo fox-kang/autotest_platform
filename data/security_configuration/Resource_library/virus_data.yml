@@ -1,0 +1,13 @@
+list:
+  '_type/list'
+page:
+  '/page'
+data1:  # path2
+  "keyWord": ""
+  "currentPageNum": 1
+  "sizePerPage": 20
+  "dataSource": ""
+  "severity": []
+  "enable": ""
+  "orderBy": "desc"
+  "orderedField": "modify_time"

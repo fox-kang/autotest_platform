@@ -1,0 +1,42 @@
+data1: '144'
+data2:
+  addrType: ip
+  deviceId: 100000001
+  dst: 134.69.2.31
+  enable: 1
+  expressions: '{"condition":"AND","rules":[{"id":2611,"input":"control_tree.control_net","field":"control_tree.control_net","type":"string","operator":"not_equal","value":"11111"}]}'
+  flag: false
+  id: null
+  pid: null
+  rid: null
+  src: 110.143.23.199
+  xpathName: bacnet
+data3:
+  ids:
+  - 1
+data4:
+  ids:
+  - 3
+  status: 1
+data5:
+  addrType: ip
+  deviceId: 100000001
+  dst: 149.9.116.50
+  enable: 1
+  expressions: '{"condition":"AND","rules":[{"field":"control_tree.control_net","id":2611,"input":"control_tree.control_net","operator":"not_equal","type":"string","value":"11111"}]}'
+  flag: false
+  id: 665
+  pid: 141
+  rid: 166
+  src: any
+  xpathName: bacnet
+data6:
+  currentPageNum: 1
+  dataSource: ''
+  deviceId: 100000001
+  enable: ''
+  keyword: ''
+  orderBy: desc
+  orderedField: modifiedTime
+  sizePerPage: 100
+  status: ''

@@ -1,0 +1,144 @@
+severity:
+  severity=severity&
+type:
+  type=type&
+data1:
+  "alarmTypes": [
+    "keyEvent",
+    "intrusionDetection",
+    "anomalyWarning"
+  ]
+data2:
+  "currentPageNum": 1
+  "sizePerPage": 20
+  "total": 1
+  "orderedField": "id"
+  "orderBy": "DESC"
+  "enable": null
+  "_enable": null
+  "keyword": ""
+  "parentType": null
+data3:
+  "mailConfig": {
+    "mailTitle": "",
+    "recipientId": []
+  }
+  "phoneConfig": {
+    "recipientId": []
+  }
+  "condition": {
+    "levels": [
+      4,
+      3
+    ],
+    "types": [
+      "RPC攻击",
+      "SQL注入",
+      "安全绕过",
+      "Webshell",
+      "ShellCode",
+      "暴力破解",
+      "代码注入",
+      "格式化字符串",
+      "后门病毒",
+      "僵尸网络",
+      "拒绝服务",
+      "跨站脚本攻击",
+      "跨站请求伪造",
+      "路径遍历",
+      "文件脆弱性攻击",
+      "文件包含",
+      "挖矿病毒",
+      "释放后重用",
+      "扫描攻击",
+      "弱密码",
+      "权限提升",
+      "蠕虫病毒",
+      "权限获取",
+      "其它",
+      "配置错误",
+      "木马病毒",
+      "命令注入",
+      "命令执行",
+      "文件上传",
+      "协议异常",
+      "信息泄漏",
+      "溢出攻击",
+      "浏览器脆弱性攻击",
+      "应用层攻击",
+      "异常链路",
+      "危险端口访问",
+      "弱口令访问",
+      "流量速率突变",
+      "链路恢复",
+      "链路中断",
+      "可疑资产",
+      "可疑协议",
+      "长时间无报文",
+      "异常流量",
+      "异常行为"
+    ],
+    "parentTypes": [
+      "intrusionDetection",
+      "anomalyWarning"
+    ]
+  }
+  "name": "test"
+  "describe": ""
+  "enable": true
+  "type": "ALARM"
+  "enableMail": false
+  "enableSMS": false
+  "enableNotice": false
+  "enableSound": true
+  "id": ""
+id:
+  ?id=7
+data4:
+  "id": 7
+  "name": "test2"
+  "describe": ""
+  "type": "ALARM"
+  "enable": true
+  "condition": {
+    "levels": [
+      4
+    ],
+    "parentTypes": [
+      "intrusionDetection",
+      "anomalyWarning",
+      "keyEvent"
+    ],
+    "types": [
+      "RPC攻击",
+      "SQL注入"
+    ],
+    "localMonitor": null
+  }
+  "enableMail": false,
+  "enableSMS": false,
+  "enableNotice": true,
+  "enableSound": true,
+  "mailConfig": {
+    "mailTitle": "",
+    "recipientId": []
+  }
+  "phoneConfig": {
+    "recipientId": []
+  }
+  "lastExecute": null
+  "confidence": null
+  "monitor": null
+  "modifyUserId": 2
+  "createTime": 1698292914073
+  "modifyTime": 1698292919052
+data5:
+  "ids": [
+    8
+  ]
+data6:
+  "enable": 1 # 0禁用 1 使能
+  "ids": [
+    7,
+    6
+  ]

@@ -1,0 +1,6 @@
+linkcount:
+  ?linkCount=100
+network:
+  ?networkSegment=0.0.0.0/24
+orgId:
+  ?orgId=3

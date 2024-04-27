@@ -1,0 +1,10 @@
+operate:
+  ?operate=operate
+data1:
+  "currentPage": 1
+  "name": ""
+  "pageSize": 20
+  "operaType": []
+  "operaResult": []
+  "timeStarts": 1700623368000
+  "timeEnds": 1700625168000

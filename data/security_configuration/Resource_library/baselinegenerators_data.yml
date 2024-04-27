@@ -1,0 +1,41 @@
+data1:
+  "currentPageStart": 1
+  "itemsPerPage": 20
+  "filter": ""
+  "systemData": null
+  "protocolId": null
+  "startTime": null
+  "endTime": null
+  "orderBy": "desc"
+  "orderField": "modify_time"
+  "scope": null
+filterFlag:
+  ?filterFlag=true
+data2:
+  "currentPageStart": 1
+  "itemsPerPage": 20
+  "filter": ""
+  "systemData": null
+  "protocolId": null
+  "startTime": null
+  "endTime": null
+  "orderBy": "desc"
+  "orderField": "modify_time"
+  "scope": null
+id:
+  62/fields
+data3:
+  "name": "2"
+  "protocol_id": 62
+  "id": null
+  "fields": [
+    2945
+  ]
+  "enabled": 1
+  "description": ""
+data4:
+  "ids": 101
+data5:
+  "ids": 101
+data6:
+  "ids": "101"

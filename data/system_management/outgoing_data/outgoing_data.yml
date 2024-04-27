@@ -1,0 +1,64 @@
+platformId:
+  ?platformId=0
+templateId:
+  templateId=1
+data1:
+  "id": null
+  "host": "10.0.0.8"
+  "port": 514
+  "method": "syslog"
+  "snmpVersion": 0
+  "communityName": "public"
+  "securityName": ""
+  "securityLevel": 1
+  "verificationProtocol": "MD5"
+  "verifyPassword": ""
+  "privacyAgreement": "DES"
+  "privateKey": ""
+  "protocol": "UDP"
+  "dataType": 1
+  "headDataFormat": 1
+  "headSplitChar": "|"
+  "contentDataFormat": 1
+  "contentSplitChar": "|"
+  "activeFlag": 1
+  "eventLevel": [
+    1,
+    2,
+    3,
+    4
+  ]
+  "templateId": 1
+data2:
+  "currentPageNum": 1
+  "sizePerPage": 20
+  "keyword": ""
+  "dataType": []
+  "method": ""
+  "protocol": ""
+  "orderBy": "desc"
+  "orderedField": "modify_time"
+data3:
+  "idList": [
+    10
+  ]
+  "activeFlag": 0 # 0禁用 1使能
+data4:
+  "ids": [
+    10
+  ]
+data5:
+  "currentPageNum": 1
+  "sizePerPage": 20
+  "keyword": ""
+  "sendMethods": []
+  "orderBy": "desc"
+  "orderedField": "modify_time"
+data6:
+  "currentPageNum": 1
+  "sizePerPage": 20
+  "keyword": ""
+  "orderBy": "asc"
+  "orderedField": "id"
+  "start": 0
+data7:

@@ -1,0 +1,61 @@
+data1:
+  {
+    "eventType": 4
+  }
+data2:
+  "currentPageNum": 1
+  "sizePerPage": 20
+  "orderBy": "desc"
+  "orderedField": "modify_time"
+  "keyword": ""
+  "treeId": 31
+data3:
+  "icon": ""
+  "id": 31 # 100000001 2级目录
+  "treeName": "TEST"
+  "description": ""
+ids:
+  ?ids=100000003
+data4:
+  "id": 100000001,
+  "treeName": "TEST"
+  "description": ""
+data5:
+  "createtime": ""
+  "description": "test"
+  "diffField": ""
+  "enable": 1
+  "eventMatchBeanList": [
+    {
+      "createtime": 0,
+      "eventMatchName": "event_1",
+      "expression": "{\"bool\":{\"must\":[{\"term\":{\"dst_ip\":\"1.1.1.1\"}}]}}",
+      "orgExpression": "{\"condition\":\"AND\",\"rules\":[{\"id\":\"dst_ip\",\"field\":\"dst_ip\",\"type\":\"STRING\",\"input\":\"text\",\"operator\":\"equal\",\"value\":\"1.1.1.1\"}]}",
+      "id": "",
+      "isDelete": 0,
+      "matchFlag": 1,
+      "matchFields": "",
+      "modifytime": 1705991055515
+    }
+  ]
+  "exeCycle": 1
+  "exeCycleUnit": 2
+  "expression": ""
+  "hasAlertRecord": 1
+  "hasCorrelateEvent": 0
+  "hits": "1"
+  "id": 100000013
+  "isDelete": 0
+  "jobTime": ""
+  "jobTimeUnit": ""
+  "modifytime": 1705991055515
+  "repeatTriggerDeadzone": 2
+  "repeatTriggerDeadzoneUnit": 2
+  "ruleAlertRecordList": []
+  "ruleName": "test"
+  "sameField": ""
+  "treeId": 31
+data6:
+  "ids": 100000001
+  "status": 0
+

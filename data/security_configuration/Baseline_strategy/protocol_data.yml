@@ -1,0 +1,41 @@
+data1:
+  "currentPageStart": 1
+  "enable": 1
+  "groupId": 0
+  "id": 100000001
+  "is_system": ""
+  "itemsPerPage": 20
+  "name": ""
+  "orderBy": "desc"
+  "param": ""
+data2:
+  "id": null
+  "deviceId": 100000001
+  "status": "idle"
+  "protocolId": 995  #协议编号
+  "enable": 1
+data3:
+  "ids": [
+    100000005
+  ]
+data4:
+  "keyword": ""
+  "dataSource": null # 数据来源1自学习2自定义3正式资产
+  "status": null  # 基线状态"idle"从未应用"working"应用成功"modify"有修改
+  "enable": null  # 使能状态0禁用1使能2删除
+  "deviceId": 100000001
+  "currentPageNum": 1
+  "sizePerPage": 20
+  "orderBy": "desc"
+  "orderedField": "modified_time"
+data5:
+  [
+    100000001
+  ]
+data6:
+  "deviceId": 100000001
+data7:
+  "ids": [
+      100000006  #基线id
+    ]
+  "enable": 1  #使能状态1打开 2关闭

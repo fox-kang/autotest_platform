@@ -1,0 +1,67 @@
+data1:
+  "alertStatus": null
+  "auditStatus": null
+  "logStatus": null
+  "startTime": 1
+  "endTime": 1700668799999
+data2:
+  "dataFile": ""
+  "startTime": 1
+  "endTime": 1700668799999
+data3:
+  "accessMethod": "SFTP"
+  "alertMaxOnline": 180
+  "logMaxOnline": 180
+  "auditMaxOnline": 180
+  "backupPath": "backup/"
+  "backupSize": 20
+  "dumpMode": "no"
+  "dumpPath": ""
+  "ip": ""
+  "maxOffline": 90
+  "minResidualSpace": 20
+  "password": ""
+  "port": "22"
+  "username": ""
+data4:
+  [
+    "2023_10_24",
+    "2023_10_25",
+    "2023_10_26",
+    "2023_10_27",
+    "2023_10_28",
+    "2023_10_29",
+    "2023_10_30",
+    "2023_10_31",
+    "2023_11_01",
+    "2023_11_02",
+    "2023_11_03",
+    "2023_11_04",
+    "2023_11_05",
+    "2023_11_06",
+    "2023_11_07",
+    "2023_11_08",
+    "2023_11_09",
+    "2023_11_10",
+    "2023_11_11",
+    "2023_11_12",
+    "2023_11_13",
+    "2023_11_14",
+    "2023_11_15",
+    "2023_11_16",
+    "2023_11_17",
+    "2023_11_18",
+    "2023_11_19",
+    "2023_11_20",
+    "2023_11_21",
+    "2023_11_22"
+  ]
+data5:
+  "fileNames": [
+    "tb_audit_2023_10_24.tar.gz"
+  ]
+  "isCover": true
+data6:
+  [
+    "tb_alarm_2023_10_24.tar.gz"
+  ]

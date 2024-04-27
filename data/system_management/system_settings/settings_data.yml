@@ -1,0 +1,95 @@
+running:
+  ?running=true
+data1:
+  "ip": "172.16.6.126"
+  "cycle": 5
+data2:
+  "id": 1
+  "count": 10
+  "timeout": 1
+  "enable": 1
+data3:
+  "timeOut": "30"
+data4:
+  "passwordLength": 8
+  "passwordTimeout": 90
+  "passwordComplexity": 11
+data5:
+  "from": "38YKJ+7p70e87vBLpctvEm4AJXCO6JvIjUog9ZOaLaE="
+  "fromName": "1"
+  "mailServer": "172.16.6.21"
+  "password": "Ds+Cbw452pgybhjCGImhdg=="
+data6:
+  "enable": true
+data7:
+  "enable": true
+data8:
+  "ipRule": ""
+data9:
+  enableFlag: true
+data10:
+  "snmpVersion": "v2"
+  "community": "public"
+  "snmpPort": 161
+  "userName": "admin"
+  "authPass": "admin"
+  "privPass": "admin"
+  "contactInformation": ""
+  "equipmentInformation": ""
+  "enableSnmp": true
+data11:
+  "srcMac": ""
+  "srcIp": "10.0.0.0"
+  "srcPort": ""
+  "dstMac": ""
+  "dstIp": "10.0.0.1"
+  "dstPort": ""
+  "transProtocol": "any"
+  "appProtocol": ""
+data12:
+  "srcMac": "any"
+  "srcIp": "10.0.0.0"
+  "srcPort": "any"
+  "dstMac": "any"
+  "dstIp": "10.0.0.1"
+  "dstPort": "any"
+  "transProtocol": "any"
+  "appProtocol": "any"
+  "_index": 0
+  "_rowKey": 1
+data13:
+  "ip": "172.16.6.126"
+  "disable": false
+  "status": "open"  # open 打开 close 关闭
+  "speed": 10
+  "concurrent": 1
+  "renewalCycle": 30
+  "ipCheck4": false
+  "ipCheck6": false
+  "scanningLevel": "2"
+  "ipv4Address": ""
+  "ipv6Address": ""
+  "excludeIPV4": []
+  "excludeIPV6": []
+data14:
+  "host": "1.1.1.1"
+  "port": 10020
+  "type": "kafka"
+data15:
+  "host": "1.1.1.1"
+  "port": 10020,
+  "type": "kafka"
+  "id": 100000003
+data16:
+  [
+    100000003
+  ]
+data17:
+  "currentPage": 1
+  "orderBy": "DESC"
+  "orderedField": "id"
+  "pageSize": 200
+  "searchByContent": ""
+  "searchByField": ""
+  "skipCount": 1
+

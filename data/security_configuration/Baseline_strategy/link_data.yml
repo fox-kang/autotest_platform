@@ -1,0 +1,73 @@
+data1:
+  alert_severity_id: 2
+  device_id: 100000001
+  dport: any
+  dst_ip: 103.70.242.242
+  dst_mac: ''
+  enable: 1
+  flag: false
+  frame_desc: 长时间无通信
+  frame_flag: true
+  frame_severity_id: 2
+  id: null
+  link_flag: true
+  no_frame_time: 300
+  protocol: 29west
+  rule_name: 链路异常
+  sport: any
+  src_ip: 44.178.19.195
+  src_mac: ''
+  timeout: 600
+  transProto: any
+  trans_proto: any
+data2:
+  currentPageNum: 1
+  deviceIds:
+  - 100000001
+  enable: ''
+  keyWord: ''
+  orderBy: desc
+  orderedField: modified_time
+  sizePerPage: 20
+  sourceTypes: []
+  status: []
+data3:
+  ids:
+  - 100000006
+data4:
+  ids: 100000001
+data5:
+  ids: 100000001
+data6:
+  alert_severity_id: 2
+  frame_flag: null
+  frame_severity_id: 2
+  ids:
+  - 100000001
+  link_flag: null
+  no_frame_time: 300
+  timeout: 300
+data7:
+  deviceId: 100000001
+data8:
+  alert_severity_id: 2
+  device_id: 100000001
+  dport: any
+  dst_ip: 122.180.66.45
+  dst_mac: ''
+  enable: 1
+  flag: false
+  frame_desc: 长时间无通信
+  frame_flag: true
+  frame_severity_id: 2
+  id: 100001347
+  link_flag: true
+  no_frame_time: 300
+  protocol: 29west
+  rule_name: 链路异常
+  sport: any
+  src_ip: 44.178.19.195
+  src_mac: ''
+  timeout: 600
+  transProto: any
+  trans_proto: any

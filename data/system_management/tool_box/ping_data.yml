@@ -1,0 +1,38 @@
+ip:
+  ?ip=172.16.6.126
+ipv6:
+  isIpv6=false
+param:
+  ?param=l
+order:
+  ?order=route # route 路由 ifconfig 网卡
+data1:
+  "serviceLogList": [
+    {
+      "service": "web",
+      "level": "error"
+    },
+    {
+      "service": "auth",
+      "level": "error"
+    },
+    {
+      "service": "taa",
+      "level": "debug"
+    }
+  ]
+data2:
+  "applyDevices": "172.16.6.126"
+  "keyWord": ""
+  "sort": "startTime_desc"
+data3:
+  "ip": "172.16.6.126"
+data4:
+  "taskName": "123"
+  "applyDevices": "10.0.8.77"
+data5:
+  "taskName": "123"
+  "applyDevices": "10.0.8.77"
+data6:
+  "taskName": "123"
+  "applyDevices": "10.0.8.77"

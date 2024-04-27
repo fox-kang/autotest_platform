@@ -1,0 +1,55 @@
+data1:
+  "assetFlag": [
+    1
+  ]
+data2:
+  "fieldFunction": 7
+  "functionName": "用户设置列默认"
+  "menuCode": 502
+  "searchByContent": ""
+  "userId": 2
+data3:
+  "assetFlag": 1
+  "currentPageNum": 1
+  "sizePerPage": 20
+  "keyword": ""
+  "deviceIds": []
+  "assetSource": []
+  "xpathValue": ""
+  "orderBy": "desc"
+  "orderedField": "create_time"
+  "excludeAssetIds": null
+  "startTime": null
+  "endTime": null
+data4:
+  "ids": [
+    "04f40b25-343d-4c1d-829e-954840d6e39d"
+  ]
+data5:
+  "ids": [
+    "0fc3a2c1-0260-439b-b22c-39781f6c9fe3"
+  ]
+data6:
+  "ids": [
+    "0ff8d0f8-84fe-4d62-9b94-6a489476573c",
+    "11db16c0-700c-45c8-858a-3bd0af610ed5",
+    "dc8c9c3e-98eb-4d15-b7ef-acc04c07f0d3",
+    "e54ae338-3645-4fd2-8418-1e5164820a1e",
+    "4313e4a6-20e1-4493-bf5f-34abbd46b23f",
+    "1140439b-fb6e-4bda-91b4-ad954d8b138e",
+    "ccb6ef58-5594-47a6-8357-047f9edd136a",
+    "89a057e1-0861-4239-bf97-a81db029aaf9",
+    "0fe0c914-739f-44df-af11-9c86b6d34a68",
+    "6ebe2ed8-f4aa-4a46-bebd-02eec1e0a718",
+    "29d3f6e8-7c9d-456e-92af-efc7d90eecef",
+    "eb40f72c-7128-40ff-83fd-4338e775f34d",
+    "584aaac7-9833-43dc-91a6-aef766942e17",
+    "19ef99be-b46e-4eb1-80c4-4c0d2aabd75e",
+    "94d4e0b2-f96d-41be-99f4-525381a7e372",
+    "1d6d7628-be32-462f-a7b2-12985e175319",
+    "26ed4dbf-1ca3-46f3-be4f-ca076cf3b5fe",
+    "02faa6f3-c6ab-45c5-a360-8424730aa707",
+    "81ebf479-c4dc-449d-8cfd-afa0aceb70cd",
+    "01e648c0-6f36-4432-873f-c51ec20190ba"
+  ]
+  "assetPreFlag": 1

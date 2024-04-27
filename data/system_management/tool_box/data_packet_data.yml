@@ -1,0 +1,36 @@
+data1:
+  rate: 100
+  times: 1
+virus_pcap:
+  'zip_file_path': '/var/lib/jenkins/workspace/jcsj/upload/003病毒.zip'
+  'file_name': 'http1-6.pcap'
+intrude_pcap:
+  'zip_file_path': '/var/lib/jenkins/workspace/jcsj/upload/入侵.zip'
+  'file_name': 'tftp_1.pcap'
+modulus_pcap:
+  'zip_file_path': '/var/lib/jenkins/workspace/jcsj/upload/02-Modbus.zip'
+  'file_name': 'modbus_udp_03.pcap'
+weak_pcap:
+  'zip_file_path': '/var/lib/jenkins/workspace/jcsj/upload/002弱口令.zip'
+  'file_name': 'http-test123.pcap'
+behavior_pcap:
+  'zip_file_path': '/var/lib/jenkins/workspace/jcsj/upload/004关键事件.zip'
+  'file_name': 'cip_reset.pcap'
+946_pcap:
+  'zip_file_path': '/var/lib/jenkins/workspace/jcsj/upload/946.zip'
+  'file_name': '946.pcap'
+modbus_pcap:
+  'zip_file_path': '/var/lib/jenkins/workspace/jcsj/upload/02-Modbus.zip'
+  'file_name': 'modbus_exeption.pcap'
+modbus_02_pcap:
+  'zip_file_path': '/var/lib/jenkins/workspace/jcsj/upload/02-Modbus.zip'
+  'file_name': 'modbus_tcp_02.pcap'
+123456_pcap:
+  'zip_file_path': '/var/lib/jenkins/workspace/jcsj/upload/002弱口令.zip'
+  'file_name': 'telnet弱口令.pcap'
+AB_EthernetIP_CIP_pcap:
+  'zip_file_path': '/var/lib/jenkins/workspace/jcsj/upload/05-CIP.zip'
+  'file_name': 'AB_EthernetIP_CIP.pcap'
+K-B-ZC.pcap:
+  'zip_file_path': '/var/lib/jenkins/workspace/jcsj/upload/入侵.zip'
+  'file_name': '01-K-B-ZC.pcap'

@@ -1,0 +1,118 @@
+data1:
+  "currentPage": 1
+  "pageSize": 20
+  "keyword": ""
+  "systemData": ""
+data2:
+  "fieldFunction": 1
+  "systemFlag": 1
+data3:
+  "id": null,
+  "typeName": "2",
+  "parentId": 6,
+  "typeCode": "A",
+  "typeIcon": "virtual",
+  "description": "",
+  "assetFieldValues": []
+data4:
+  "ids": [
+    1
+  ]
+data5:
+  "id": 1
+  "typeName": "服务器"
+  "parentId": 0
+  "typeCode": "server"
+  "typeIcon": "server"
+  "description": null
+  "assetFieldValues": []
+data6:
+  "currentPage": 1
+  "pageSize": 20
+  "searchByContent": ""
+  "displayFieldType": ""
+  "fieldFunction": 1
+  "orderBy": "desc"
+  "orderedField": "modifyTime"
+data7:
+  "id": null
+  "fieldValue": "TEST"
+  "displayName": "1"
+  "requiredFlag": 0
+  "attributeType": 1
+  "fieldPattern": ""
+  "fieldLength": "1"
+  "attributeDefaultString": null
+  "attributeDefaultDouble": null
+  "attributeDefaultInt": null
+  "orgDictionaryId": null
+  "attributeDefaultSelect": null
+  "description": ""
+  "fieldFunction": 1
+  "fieldType": "STRING"
+  "attributeDefaultValue": ""
+data8:
+  "id": 100000001
+  "fieldValue": "TEST"
+  "displayName": "1"
+  "requiredFlag": 0
+  "attributeType": 1
+  "fieldPattern": ""
+  "fieldLength": 1
+  "attributeDefaultString": ""
+  "orgDictionaryId": null
+  "description": ""
+  "fieldFunction": 1
+  "fieldType": "STRING"
+  "attributeDefaultValue": ""
+data9:
+  "ids": "100000001"
+data10:
+  "currentPage": 1
+  "pageSize": 20
+  "keyword": ""
+data11:
+  "assetFlag": []
+data12:
+  "currentPage": 1
+  "pageSize": 20
+  "searchByContent": ""
+  "skipCount": 1
+data13:
+  "currentPageNum": 1
+  "sizePerPage": 20
+  "keyword": ""
+  "systemData": ""
+  "typeCode": []
+  "orderBy": "desc"
+  "orderedField": "modify_time"
+data14:
+  "dictionaryName": "applyType",
+  "orderBy": "asc",
+  "orderedField": "id"
+data15:
+  "keyword": ""
+  "applyType": []
+  "systemData": ""
+  "currentPageNum": 1
+  "sizePerPage": 20
+  "orderBy": "desc"
+  "orderedField": "modify_time"
+data16:
+  "currentPageNum": 1
+  "expressionBeans": []
+  "keyword": ""
+  "orderBy": "desc"
+  "orderedField": "storage_time"
+  "sizePerPage": 20
+  "typeCode": []
+  "parentTypeCode": [
+    "/ics"
+  ]
+data17:
+  "currentPage": 1
+  "pageSize": 20
+  "searchByContent": ""
+  "systemFlag": ""
+  "orderBy": "desc"
+  "orderedField": "modifyTime"

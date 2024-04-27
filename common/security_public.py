@@ -1,0 +1,22 @@
+from common.login_public import *
+
+rules_file = a.translate_path(a.read_yml_file(config)['item'], a.read_yml_file(config)['i_rule_template_data'])
+intrusion_file = a.translate_path(a.read_yml_file(config)['item'], a.read_yml_file(config)['intrusion_data'])
+Virus_file = a.translate_path(a.read_yml_file(config)['item'], a.read_yml_file(config)['Virus_data'])
+weak_password_file = a.translate_path(a.read_yml_file(config)['item'], a.read_yml_file(config)['weak_password_data'])
+key_behavior_file = a.translate_path(a.read_yml_file(config)['item'], a.read_yml_file(config)['key_behavior_data'])
+rule_template_file = a.translate_path(a.read_yml_file(config)['item'], a.read_yml_file(config)['b_rule_template_data'])
+exclude_file = a.translate_path(a.read_yml_file(config)['item'], a.read_yml_file(config)['exclude_data'])
+resource_file = a.translate_path(a.read_yml_file(config)['item'], a.read_yml_file(config)['resource_data'])
+operator_file = a.translate_path(a.read_yml_file(config)['item'], a.read_yml_file(config)['operator_data'])
+baselinegenerators_file = a.translate_path(a.read_yml_file(config)['item'],
+                                           a.read_yml_file(config)['baselinegenerators_data'])
+chart_file = a.translate_path(a.read_yml_file(config)['item'], a.read_yml_file(config)['chart_data'])
+organization_file = a.translate_path(a.read_yml_file(config)['item'], a.read_yml_file(config)['organization_data'])
+risk_file = a.translate_path(a.read_yml_file(config)['item'], a.read_yml_file(config)['risk_data'])
+virus_file = a.translate_path(a.read_yml_file(config)['item'], a.read_yml_file(config)['virus_data'])
+vulnCves_file = a.translate_path(a.read_yml_file(config)['item'], a.read_yml_file(config)['vulnCves_data'])
+weakPass_file = a.translate_path(a.read_yml_file(config)['item'], a.read_yml_file(config)['weakPass_data'])
+alarm_file = a.translate_path(a.read_yml_file(config)['item'], a.read_yml_file(config)['alarm_data'])
+outreach_file = a.translate_path(a.read_yml_file(config)['item'], a.read_yml_file(config)['outreach_data'])
+aas_file = a.translate_path(a.read_yml_file(config)['item'], a.read_yml_file(config)['aas_data'])

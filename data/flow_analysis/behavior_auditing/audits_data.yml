@@ -1,0 +1,63 @@
+data1:
+  "keyword": ""
+  "deviceIds": [
+    100000001
+  ]
+  "policy_type": ""
+  "archive": null
+  "currentPage": 1
+  "dslConditions": "[]"
+  "orderBy": "latest_time"
+  "orderSort": "desc"
+  "pageSize": 20
+  "timeEnd": 1700723549430
+  "timeStart": 1700721749430
+  "bilateral": false
+data2:
+  "needGroupAlarm": true
+  "types": null
+  "tsaTypes": [
+    "keyEvent"
+  ]
+  "parentTypes": null
+  "startTime": 1702199911597
+  "endTime": 1702286311597
+  "deviceIdList": [
+    100000001
+  ]
+data3:
+  "keyword": ""
+  "deviceIds": [
+    100000001
+  ]
+  "policy_type": ""
+  "archive": null
+  "currentPage": 1
+  "dslConditions": "[]"
+  "orderBy": "latest_time"
+  "orderSort": "desc"
+  "pageSize": 20
+  "timeEnd": 1700723768577
+  "timeStart": 1700721968577
+  "bilateral": false
+data4:
+  "alarmType": 9
+  "protocols": []
+  "serverity": []
+  "idsTypes": []
+  "parentTypes": null
+  "group": true
+  "keyword": ""
+  "disposeTypes": [
+    0,
+    1
+  ]
+  "deviceIdList": [
+    100000001
+  ]
+  "from": 0
+  "size": 20
+  "orderBy": "start_time"
+  "orderSort": "desc"
+  "startTime": 1704700340819
+  "endTime": 1704786740819

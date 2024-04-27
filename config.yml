@@ -1,0 +1,80 @@
+#定义变量scheme，是协议
+scheme : 'https://'
+#定义变量host，是服务器地址
+host : '10.0.8.66'
+#定义变量port，是端口号
+port : ':10443'
+#用户名
+username : 'rayleigh'
+#明文密码
+passwd : 'Silvers$R7'
+#公钥网址
+rsa-key : '//oauth/sys/rsa-key'
+#验证码地址
+code : '/oauth/sys/getCode'
+#登录接口地址
+login_url : '/oauth/authorize?'
+client_id : 'client_id=c1ebe466-1cdc-4bd3-ab69-77c3561b9dee&'
+response_type : 'response_type=code&'
+redirect_uri : 'redirect_uri=https://10.0.8.66:10443/tsa/'
+#存放验证码文件路径
+ceshi.jpg : 'common/image/ceshi.jpg'
+#存放项目文件的绝对路径
+item: '/var/lib/jenkins/workspace/jcsj/'
+i: 'D:/pycharm/auto/'
+O: '/var/lib/jenkins/workspace/jcsj/'
+#存放测试数据文件路径
+#安全配置
+asset_data : 'data/security_configuration/Baseline_strategy/asset_data.yml'
+protocol_data : 'data/security_configuration/Baseline_strategy/protocol_data.yml'
+link_data : 'data/security_configuration/Baseline_strategy/link_data.yml'
+flow_data : 'data/security_configuration/Baseline_strategy/flow_data.yml'
+business_data : 'data/security_configuration/Baseline_strategy/business_data.yml'
+autogenerate_data : 'data/security_configuration/Baseline_strategy/autogenerate_data.yml'
+i_rule_template_data : 'data/security_configuration/Intrusion_Strategy/i_rule_template_data.yml'
+intrusion_data : 'data/security_configuration/Intrusion_Strategy/intrusion_data.yml'
+Virus_data : 'data/security_configuration/Virus_configuration/virus_data.yml'
+weak_password_data : 'data/security_configuration/Weak_password_configuration/weak_pass_data.yml'
+key_behavior_data : 'data/security_configuration/Key_behavior_strategy/behavior_data.yml'
+b_rule_template_data : 'data/security_configuration/Key_behavior_strategy/b_rule_template_data.yml'
+exclude_data : 'data/security_configuration/Exception_management/exclude_data.yml'
+resource_data: 'data/security_configuration/Resource_library/resource_data.yml'
+operator_data: 'data/security_configuration/Resource_library/operator_data.yml'
+baselinegenerators_data: 'data/security_configuration/Resource_library/baselinegenerators_data.yml'
+chart_data: 'data/security_configuration/Resource_library/chart_data.yml'
+organization_data: 'data/security_configuration/Resource_library/organization_data.yml'
+risk_data: 'data/security_configuration/Resource_library/risk_data.yml'
+virus_data: 'data/security_configuration/Resource_library/virus_data.yml'
+vulnCves_data: 'data/security_configuration/Resource_library/vulnCves_data.yml'
+weakPass_data: 'data/security_configuration/Resource_library/weakPass_data.yml'
+alarm_data: 'data/security_configuration/alarm_configuration/alarm_data.yml'
+outreach_data: 'data/security_configuration/Safety_margin/outreach.yml'
+aas_data: 'data/security_configuration/Association_analysis/aas_data.yml'
+#系统管理
+data_packet_data: 'data/system_management/tool_box/data_packet_data.yml'
+engine_data : 'data/system_management/engine_management/engine_data.yml'
+users_data: 'data/system_management/authority_management/user_data.yml'
+role_data: 'data/system_management/authority_management/role_data.yml'
+log_data : 'data/system_management/system_log/log_data.yml'
+#威胁检测
+threat_data : 'data/threat_detection/intrusion_detection/intrude_data.yml'
+domain_data: 'data/threat_detection/security_zone_alarm/domain_data.yml'
+
+
+
+#脆弱性
+weak_data : 'data/vulnerability/weak_password/weak_data.yml'
+weakness_data: 'data/vulnerability/asset_weakness/weakness_data.yml'
+
+#资产测绘
+management_data : 'data/asset_detection/asset_management/management_data.yml'
+allocation_data : 'data/asset_detection/asset_allocation/allocation_data.yml'
+discovery_data : 'data/asset_detection/asset_discovery/discovery_data.yml'
+scan_data : 'data/asset_detection/asset_scan/scan_data.yml'
+topology_data : 'data/asset_detection/asset_topology/topology_data.yml'
+#流量分析
+audits_data: 'data/flow_analysis/behavior_auditing/audits_data.yml'
+kbi_data: 'data/flow_analysis/key_behavior/kbi_data.yml'
+#统计报表
+template_data: 'data/statistical_statement/report_template/template_data.yml'
+record_data: 'data/statistical_statement/statement_record/record_data.yml'

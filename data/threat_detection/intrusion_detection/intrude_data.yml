@@ -1,0 +1,39 @@
+data1:
+  "alarmType": 8
+  "protocols": []
+  "serverity": []
+  "idsTypes": []
+  "parentTypes": null
+  "group": true
+  "keyword": ""
+  "disposeTypes": [
+    0,
+    1
+  ]
+  "deviceIdList": [
+    100000001
+  ]
+  "from": 0
+  "size": 20
+  "orderBy": "start_time"
+  "orderSort": "desc"
+  "startTime": 1705809247846
+  "endTime": 1705895647846
+data2:
+  deviceIdList:
+  - 100000001
+  endTime: 1700731953287
+  needGroupAlarm: true
+  parentTypes: null
+  startTime: 1700645553287
+  tsaTypes:
+  - alert
+  types: null
+data3:
+  [
+    {
+      "alarmId": 100159628,
+      "description": "",
+      "disposeType": 1
+    }
+  ]

@@ -1,0 +1,99 @@
+data1:
+    "policiesGroupIds": ""
+    "policiesIds": ""
+data2:
+  "action": "ids"
+  "currentPageNum": 1
+  "keyword": ""
+  "template": null
+  "status": ""
+  "enable": null
+  "isDelete": null
+  "startTime": null
+  "endTime": null
+  "orderBy": "desc"
+  "orderedField": "modified_time"
+  "sizePerPage": 20
+  "deviceId": 100000001
+data3:
+    "dataSource": 2
+    "deviceId": 100000001
+data4:
+  "deviceId": 100000001
+  "type":  "ids_pol"
+data5:
+  "dataSource": 2
+  "isSystem": null
+  "itemsPerPage": 1000
+  "orderBy": "desc"
+  "orderedField": "type"
+  "name": ""
+  "currentPage": 1
+  "ruleEnable": 1
+data6:
+  "action": "ids"
+  "name": "test3"
+  "description": ""
+  "addr_type": "ip"
+  "src": "any"
+  "dst": "any"
+  "enable": 1
+  "deviceIdStr": 100000001
+  "templateIdsStr": "102,103,104,105,106,107,108,101,110,111,112,113,114,116,109"
+  "ruleEnable": 1
+  "data_source": 2
+  "deviceGroupIdStr": ""
+  "distDisabled": true
+  "id": ""
+  "is_delete": 0
+  "is_modified": 1
+  "policy_group_id": 0
+data7:
+  "ids": [
+    100000005
+  ]
+  "type": "ids"
+data8:
+  "ids": [
+    100000007,
+    100000006,
+    100000001
+  ]
+  "status": 1  #1使能 2 禁用
+  "type": "ids"
+data9:
+  "action": "ids"
+  "name": "tset1"
+  "description": "hahaha"
+  "addr_type": "ip"
+  "src": "any"
+  "dst": "any"
+  "enable": 1
+  "deviceIdStr": 100000001
+  "templateIdsStr": "100000002"
+  "ruleEnable": 1
+  "data_source": 2
+  "deviceGroupIdStr": ""
+  "distDisabled": true
+  "id": 100000004
+  "is_delete": 0
+  "is_modified": 1
+  "policy_group_id": 0
+test:
+  "action": "ids"
+  "name": "test"
+  "description": ""
+  "addr_type": "ip"
+  "src": "any"
+  "dst": "any"
+  "enable": 1
+  "deviceIdStr": 100000001
+  "templateIdsStr": "101,102,103,104,105,107,108,109,110,111,112,113,114,116"
+  "ruleEnable": 1
+  "data_source": 2
+  "deviceGroupIdStr": ""
+  "distDisabled": true
+  "id": ""
+  "is_delete": 0
+  "is_modified": 1
+  "policy_group_id": 0

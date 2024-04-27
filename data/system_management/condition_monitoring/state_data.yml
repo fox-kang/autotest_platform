@@ -1,0 +1,5 @@
+data1:
+  "host": ""
+  "hwName": "cpu"
+  "thresholdValue": 80
+  "status": "0"

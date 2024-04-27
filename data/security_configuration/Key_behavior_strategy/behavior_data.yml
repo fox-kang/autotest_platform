@@ -1,0 +1,80 @@
+data1:
+    "policiesGroupIds": ""
+    "policiesIds": ""
+data2:
+    "action": "keyEvent"
+    "currentPageNum": 1
+    "keyword": ""
+    "template": null
+    "status": ""
+    "enable": null
+    "isDelete": null
+    "startTime": null
+    "endTime": null
+    "orderBy": "desc"
+    "orderedField": "modified_time"
+    "sizePerPage": 20
+    "deviceId": 100000001
+data3:
+    "dataSource": 4
+    "deviceId": 100000001
+data4:
+  "deviceId": 100000001
+  "type": "key_event_policy"
+data5:
+  "action": "keyEvent"
+  "name": "qwe"
+  "description": ""
+  "addr_type": "ip"
+  "src": "any"
+  "dst": "any"
+  "enable": 1
+  "deviceIdStr": 100000001
+  "templateIdsStr": "201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227"
+  "ruleEnable": 1
+  "data_source": 1
+  "deviceGroupIdStr": ""
+  "distDisabled": true
+  "id": ""
+  "is_delete": 0
+  "is_modified": 1
+  "policy_group_id": 0
+data6:
+  "action": "keyEvent"
+  "name": "TEST1"
+  "description": ""
+  "addr_type": "ip"
+  "src": "any"
+  "dst": "any"
+  "enable": 1
+  "deviceIdStr": 100000001
+  "templateIdsStr": "201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,100001"
+  "ruleEnable": 1
+  "data_source": 1
+  "deviceGroupIdStr": ""
+  "distDisabled": true
+  "id": 100000002
+  "is_delete": 0
+  "is_modified": 1
+  "policy_group_id": 0
+data7:
+  "ids": [
+      100000002
+  ]
+  "type": "keyEvent"
+data8:
+  "ids": [
+    100000004,
+    100000003
+  ]
+  "status": 1
+  "type": "keyEvent"
+data9:
+  "dataSource": 4
+  "isSystem": null
+  "itemsPerPage": 1000
+  "orderBy": "desc"
+  "orderedField": "type"
+  "name": ""
+  "currentPage": 1
+  "ruleEnable": 1

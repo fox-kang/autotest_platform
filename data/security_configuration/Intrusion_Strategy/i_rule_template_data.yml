@@ -1,0 +1,80 @@
+data1:
+  "alarmTypes": [
+    "intrusionDetection"
+  ]
+data2:
+  "currentPage": 1
+  "isSystem": 2
+  "itemsPerPage": 1000
+  "name": ""
+  "dataSource": 2
+  "sortType": "desc"
+  "sortKey": "modified_time"
+data3:
+  "id": null
+  "name": "123"
+  "description": ""
+  "data_source": 2
+  "type": 2
+data4:
+  "currentPage": 1
+  "itemsPerPage": 20
+  "keyword": ""
+  "protocolId": null
+  "severityId": null
+  "enabled": null
+  "startTime": null
+  "endTime": null
+  "orderBy": "desc"
+  "orderedField": "modified_time"
+  "templateId": 100000001
+  "templateType": 2
+  "dataSource": 2
+data5:
+  [17]
+data6:
+  "id": null
+  "name": "TEST2"
+  "description": ""
+  "type_id": 17
+  "severity_id": 1
+  "vulnerability": ""
+  "protocol_id": 16
+  "enabled": 1
+  "templateId": 100000007
+  "data_source": 2
+  "expressions": "22222"
+data7:
+    "ruleIds": [
+      100000004,
+      100000003
+    ]
+    "enabled": 1 # 1使能 2禁用
+    "severityId": null
+    "module": "IDS_USER"
+data8:
+  "ids": [
+    100000002
+  ]
+  "module": "IDS_USER"
+data9:
+  "id": 100000003
+  "name": "test1"
+  "description": ""
+  "type_id": 32
+  "severity_id": 1
+  "vulnerability": ""
+  "protocol_id": 16
+  "enabled": 1
+  "templateId": 100000002
+  "data_source": 2
+  "expressions": "content:\"ac|2d|scyth|2e|zip\",fast_pattern,nocase;"
+  "action_id": "1"
+data10:
+  "ids": 100000008
+data11:
+  "id": 100000007
+  "name": "test1"
+  "description": ""
+  "data_source": 2
+  "type": 2

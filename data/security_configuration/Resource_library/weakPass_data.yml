@@ -1,0 +1,37 @@
+data1:
+  "currentPageNum": 1
+  "enable": null
+  "isDelete": null
+  "dataSource": null
+  "type": null
+  "keyword": ""
+  "sizePerPage": 20
+  "startTime": null
+  "endTime": null
+  "orderBy": "desc"
+  "orderedField": "modified_time"
+  "start": 0
+data2:
+  "displayValue": ""
+  "currentPageNum": 1
+  "sizePerPage": 100
+  "dictionaryName": "vendor"
+data3:
+  "id": null
+  "dataSource": 1
+  "user": ""
+  "pwd": "111"
+data4:
+  "id": 100000001
+  "dataSource": 1
+  "user": ""
+  "pwd": "111"
+data5:
+  "ids": [
+    100000001
+  ]
+data6:
+  "ids": [
+    100000002
+  ]
+  "status": 0 # 0 禁用 1使能

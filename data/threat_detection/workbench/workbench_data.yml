@@ -1,0 +1,55 @@
+data1:
+  "endTime": 1700730341033
+  "startTime": 1700643941033
+  "group": true
+  "deviceIdList": [
+    100000001
+  ]
+data2:
+  "alarmType": 0
+  "protocols": []
+  "serverity": []
+  "idsTypes": []
+  "parentTypes": [
+    "secDnEvent",
+    "intrusionDetection",
+    "virusDetection",
+    "anomalyWarning"
+  ]
+  "group": true
+  "keyword": ""
+  "disposeTypes": [
+    0,
+    1
+  ]
+  "deviceIdList": [
+    100000001
+  ]
+  "from": 0
+  "size": 20
+  "orderBy": "start_time"
+  "orderSort": "desc"
+  "startTime": 1700643941033
+  "endTime": 1700730341033
+data3:
+  "needGroupAlarm": true
+  "types": null
+  "tsaTypes": null
+  "parentTypes": [
+    "secDnEvent",
+    "intrusionDetection",
+    "anomalyWarning"
+  ]
+  "startTime": 1700643941033
+  "endTime": 1700730341033
+  "deviceIdList": [
+    100000001
+  ]
+data4:
+  "alarmTypes": [
+    "secDnEvent",
+    "intrusionDetection",
+    "virusDetection",
+    "anomalyWarning"
+  ]
+

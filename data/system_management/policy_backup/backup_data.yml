@@ -1,0 +1,33 @@
+data1:
+  [
+    {
+      "description": "策略",
+      "name": "policy",
+      "pattern": "cover"
+    },
+    {
+      "description": "例外",
+      "name": "exclude",
+      "pattern": "cover"
+    },
+    {
+      "description": "流量基线",
+      "name": "flow",
+      "pattern": "cover"
+    },
+    {
+      "description": "服务基线",
+      "name": "service",
+      "pattern": "cover"
+    },
+    {
+      "description": "协议管理",
+      "name": "protocol",
+      "pattern": "cover"
+    },
+    {
+      "description": "基线生成器",
+      "name": "generators",
+      "pattern": "cover"
+    }
+  ]

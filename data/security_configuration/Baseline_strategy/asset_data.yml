@@ -1,0 +1,30 @@
+data1:
+  assetId: null
+  assetName: test1
+  deviceId: 100000001
+  enable: 1
+  id: null
+  ip: 47.46.135.19
+  ipType: IPv4
+  mac: AA:EE:74:BA:0A:40
+  manageAddrType: 1
+  status: idle
+data2:
+  currentPageNum: 1
+  dataSource: null
+  deviceId: 100000001
+  enable: null
+  keyword: ''
+  orderBy: desc
+  orderedField: modified_time
+  sizePerPage: 100
+  status: null
+data3:
+  ids:
+  - 100000004
+data4:
+  rate: 50
+  times: 1
+data5:
+- 100000001
+ip: 93.236.84.123

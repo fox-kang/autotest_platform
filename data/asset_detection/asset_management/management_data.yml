@@ -1,0 +1,158 @@
+data1:
+  "treeType": 5
+data2:
+  "fieldFunction": 1
+  "functionName": "用户设置列默认"
+  "menuCode": 501
+  "searchByContent": ""
+  "userId": 2
+data3:
+  "assetFlag": 2
+  "currentPageNum": 1
+  "sizePerPage": 20
+  "deviceIds": []
+  "xpathValue": ""
+  "tagIds": []
+  "status": ""
+  "keyword": ""
+  "orgId": 1
+  "orderBy": "desc"
+  "orderedField": "modify_time"
+  "startTime": null
+  "endTime": null
+data4:
+  "currentPageNum": 1
+  "sizePerPage": 100
+  "keyword": "Red Hat-keycloak"
+  "typeCode": [
+    "/other/unknown"
+  ]
+  "orderBy": "desc"
+  "orderedField": "modify_time"
+data5:
+  "id": "7aed6b4c-4a70-4da9-aba2-5f57199f11ed"
+  "name": "1234566"
+  "assetsType": [
+    "other",
+    "dns"
+  ]
+  "modelId": 0
+  "description": null
+  "organizationalUnits": 3
+  "manageAddr": "59.232.85.54/5f:bf:b5:a2:fe:ee"
+  "manageAddrType": 1
+  "operatingSystem": ""
+  "correlationEngine": [
+    100000001
+  ]
+  "assetTagSelectModel": []
+  "assetForm": 0
+  "brand": null
+  "config": null
+  "number": null
+  "assetPrincipal": null
+  "assetPrincipalContact": null
+  "storageTime": ""
+  "supplierContact": null
+  "supplierContactNum": null
+  "hostMachine": null
+  "hardwareModel": null
+  "softwareVersion": null
+  "sn": null
+  "positionIdList": ""
+  "positionDetail": null
+  "supplier": null
+  "importanceLevel": 1
+  "availabilityLevel": 1
+  "securityGrade": 100000000
+  "securityLevel": 1
+  "integrityLevel": 1
+  "assetInterfaces": [
+    {
+      "ip": "59.232.85.54",
+      "mac": "5f:bf:b5:a2:fe:ee",
+      "interfaceAddrType": "IPv4",
+      "onlyKey": "17016806819990",
+      "assetId": "7aed6b4c-4a70-4da9-aba2-5f57199f11ed",
+      "indexFlag": 1,
+      "isDisabled": true
+    }
+  ]
+  "assetAttrBeans": []
+  "mergeAssetIds": []
+  "orgId": 3
+  "typePath": "/other/unknown"
+  "typeCode": "unknown"
+  "positionId": null
+  "taaIds": [
+    100000001
+  ]
+  "tagIds": []
+data6:
+  "ids": [  # 资产类型
+    2,
+    25
+  ]
+data7:
+  "id": ""
+  "name": "1"
+  "assetsType": [
+    "terminal",
+    "windows"
+  ]
+  "modelId": 0
+  "description": ""
+  "organizationalUnits": 3
+  "manageAddr": "10.0.0.1/ff:ff:FF:FF:FF:ff"
+  "manageAddrType": 1
+  "operatingSystem": ""
+  "correlationEngine": []
+  "assetTagSelectModel": []
+  "assetForm": 0
+  "brand": ""
+  "brandType": 3
+  "config": ""
+  "number": ""
+  "assetPrincipal": ""
+  "assetPrincipalContact": ""
+  "storageTime": ""
+  "supplierContact": ""
+  "supplierContactNum": ""
+  "hostMachine": ""
+  "hardwareModel": ""
+  "softwareVersion": ""
+  "sn": ""
+  "positionIdList": ""
+  "positionDetail": ""
+  "supplier": ""
+  "importanceLevel": 1
+  "availabilityLevel": 1
+  "securityGrade": 100000000
+  "securityLevel": 1
+  "integrityLevel": 1
+  "assetInterfaces": [
+    {
+      "onlyKey": 1700809160811,
+      "interfaceAddrType": "IPv4",
+      "ip": "10.0.0.1",
+      "mac": "ff:ff:FF:FF:FF:ff",
+      "nicManufacturer": "",
+      "indexFlag": 1,
+      "isDisabled": false
+    }
+  ]
+  "assetAttrBeans": []
+  "mergeAssetIds": []
+  "orgId": 3
+  "typePath": "/terminal/windows"
+  "typeCode": "windows"
+  "positionId": null
+  "taaIds": []
+  "tagIds": []
+data8:
+  "ids": [
+    "c98be0f4-6100-497a-94df-67f9a5343b16"
+  ]
+data9:
+  "ids": []
+  "assetPreFlag": 2

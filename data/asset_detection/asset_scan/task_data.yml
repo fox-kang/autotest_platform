@@ -1,0 +1,62 @@
+mission:
+  ?missionId=810050536046720
+data1:
+  "currentPage": 1
+  "keyword": ""
+  "level": []
+  "orderBy": "desc"
+  "orderedField": "latest_start_time"
+  "pageSize": 20
+data2:
+  "scanIds": [
+    789052222832512
+  ]
+data3:
+  "currentPage": 1
+  "hostType": "2"
+  "keyword": ""
+  "orderBy": "desc"
+  "orderedField": "create_time"
+  "pageSize": 100
+data4:
+  "currentPage": 1
+  "keyword": ""
+  "orderBy": "desc"
+  "orderedField": "create_time"
+  "pageSize": 100
+data5:
+  "taskName": "TEST"
+  "hostType": 1
+  "ipv4Address": "10.0.0.0"
+  "ipv6Address": ""
+  "hostGroup": ""
+  "exceptionType": 2
+  "exceptionIpGroup": ""
+  "exceptionIpAddress": "10.0.0.1"
+  "portType": 2
+  "portRangeGroup": ""
+  "portRangeAddress": "8080"
+  "operation": "2"
+  "scanCycle": "0"
+  "cycle": 0
+  "cycleRange": "day"
+  "level": 3
+  "executeType": 1
+  "startTime": null
+  "rate": 80
+  "host": "10.0.0.0"
+  "port": "8080"
+  "exceptionHost": "10.0.0.1"
+  "period": 0
+  "arguments": "--max-rate=80"
+data6:
+  "id": 810050536046720
+  "taskName": "111"
+data7:
+  "scanIds": [
+    810050536046720
+  ]
+data8:
+  "scanIds": [
+    789052222832512
+  ]

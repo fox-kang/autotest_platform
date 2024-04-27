@@ -1,0 +1,17 @@
+data1:
+  "currentPage": 1
+  "itemsPerPage": 20
+  "searchParams": ""
+data2:
+  "name": "1"
+  "descript": ""
+  "resourceList": []
+  "roleIdList": []
+data3:
+  "id": 100000001
+  "name": "1"
+  "descript": ""
+  "resourceList": []
+  "roleIdList": []
+data4:
+  "roleIdStr": "100000001"

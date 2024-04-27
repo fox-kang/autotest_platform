@@ -1,0 +1,16 @@
+data1:
+  "name": ""
+  "range": 10
+  "type": "bps"
+data2:
+  "type": "session"
+  "statUnit": "bytes"
+  "timeUnit": "hour"
+  "values": ""
+data3:
+  "name": "session"
+  "range": 200
+  "type": "total_bytes"
+  "searchByName": ""
+data4:
+  "timeUnit": "hour"

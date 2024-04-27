@@ -1,0 +1,105 @@
+data1:
+  "deviceId": 100000001
+  "orderBy": "desc"
+  "orderedField": "modified_time"
+  "endTime": ""
+  "startTime": ""
+  "keyword": ""
+  "status": null
+  "dateRange": []
+  "currentPageNum": 1
+  "total": 0
+  "sizePerPage": 20
+data2:
+  "addrRange": [
+    {
+      "range": "in",
+      "type": "IPv4",
+      "addr": "10.0.0.0-10.255.255.255"
+    },
+    {
+      "range": "in",
+      "type": "IPv4",
+      "addr": "172.16.0.0-172.31.255.255"
+    },
+    {
+      "range": "in",
+      "type": "IPv4",
+      "addr": "192.168.0.0-192.168.255.255"
+    },
+    {
+      "range": "in",
+      "type": "IPv6",
+      "addr": "fe80::e9e9:f4ac:f71d:5b16"
+    },
+  ]
+  "deviceId": 100000001
+data3:
+  "connectionType": 0
+  "partitionId": null
+  "ipAddressBeans": [
+    {
+      "range": "in",
+      "type": "IPv4",
+      "addr": "10.0.0.0-10.1.1.5"
+    }
+  ]
+  "deviceId": 100000001
+data4:
+  "addrRange": [
+    {
+      "range": "in",
+      "type": "IPv6",
+      "addr": "fe80::e9e9:f4ac:f71d:5b16"
+    }
+  ]
+  "id": null
+  "deviceId": 100000001
+  "partitionName": "E"
+  "description": ""
+data5:
+  "endTime": null
+  "startTime": null
+  "isIndustry": null
+  "custom": null
+  "orderBy": "desc"
+  "orderField": "modify_time"
+  "param": ""
+  "currentPageStart": 1
+  "itemsPerPage": 100
+data6:
+    "type": "IPv4"
+    "connectionType": 1
+    "partitionId": 100000001
+    "ipAddressBeans": [
+      {
+        "type": "IPv4",
+        "addr": "192.168.0.1"
+      }
+    ]
+    "deviceId": 100000001
+data7:
+  "connectionType": 2
+  "isContainLink": true
+  "deviceId": 100000001
+  "severity": "medium"
+  "partitionId": 100000001
+  "status": 1
+  "whitelistBeans": []
+data8:
+    "status": 0 # 0 禁用 1 使能
+    "connectionType": 1 # 1跨区互联 2 外联
+    "partitionId": [
+      100000001
+    ]
+data9:
+    "ids": [
+      100000001
+    ]
+data10:
+  [
+  100000001
+  ]
+
+
+

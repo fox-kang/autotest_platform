@@ -1,0 +1,125 @@
+path1:
+  -structure # 下级机构
+path2:
+  -unit # 下级单元
+data1:
+  "currentPage": 1
+  "itemsPerPage": 20
+  "searchParams": ""
+  "roleIdStr": ""
+  "organizationId": 1
+data2:
+  "argumentName": "user_with_multi_roles"
+  "moduleName": "auth"
+data3:
+  "id": ""
+  "resourceStr": ""
+  "roleStr": "100000000"
+  "userName": "test"
+  "email": ""
+  "descript": ""
+  "organizationIds": "2"
+  "realName": ""
+  "phone": ""
+  "countyCode": "+86"
+  "password": "e929f72a839690211866cd6511a7d3c9c3f05352"
+data4:
+  "id": 100000001
+  "resourceStr": ""
+  "roleStr": "2"
+  "userName": "test"
+  "email": ""
+  "descript": ""
+  "organizationIds": "5,2"
+  "realName": ""
+  "phone": ""
+  "countyCode": "+86"
+data5:
+  "id": 100000001
+data6:
+  "userId": 100000001
+data7:
+  "userIdStr": "100000001"
+data8:
+  "id": ""
+  "organization_name": "TEST"
+  "organization_type": 0
+  "parentId": 1
+  "additive_attr": ""
+  "assetPositionDTO": {
+    "coordinate": "",
+    "detailedAddress": "",
+    "district": null,
+    "orgTypeId": 1,
+    "province": null,
+    "town": null
+  }
+  "descript": ""
+data9:
+  "ids": "100000002"
+data10:
+  "attributeValue": ""
+  "dataType": 0
+  "descript": ""
+  "displayName": "1"
+  "extendAttributesName": "1"
+  "id": 0
+  "orgId": 100000002
+  "orgType": 1
+data11:
+  "attributeValue": ""
+  "dataType": 0
+  "descript": ""
+  "displayName": "1"
+  "extendAttributesName": "1"
+  "id": 100000001
+  "orgId": 100000002
+  "orgType": 1
+data12:
+  "ids": 100000001
+data13:
+  "address": "10.0.0.0-10.0.0.1"
+  "descript": ""
+  "id": 0
+  "ipType": 0
+  "isNegation": 0
+  "networkAddressName": ""
+  "networkAddressType": 1
+  "orgId": 100000002
+  "orgType": 1
+data14:
+  "address": "10.0.0.0-10.0.0.2"
+  "descript": ""
+  "id": 100000001
+  "ipType": 0
+  "isNegation": 0
+  "networkAddressName": ""
+  "networkAddressType": 1
+  "orgId": 100000002
+  "orgType": 1
+data15:
+  "ids": 100000001
+data16:
+  "id": 100000002
+  "organization_name": "TEST"
+  "organization_type": 0
+  "parentId": 1
+  "additive_attr": ""
+  "assetPositionDTO": {
+    "coordinate": "",
+    "detailedAddress": "",
+    "district": null,
+    "orgTypeId": 1,
+    "province": null,
+    "town": null
+  }
+  "descript": ""
+data17:
+  "id": ""
+  "organization_name": "2"
+  "organization_type": 2
+  "parentId": 100000002
+  "additive_attr": ""
+data18:
+  "organizationIds": 100000003
+

@@ -1,0 +1,21 @@
+data1:
+  "network": "GE0/0"
+  "upload": 100
+  "download": 12222
+  "remark": ""
+data2:
+  {}
+data3:
+  "network": "GE0/0"
+  "upload": 100
+  "download": 12222
+  "remark": ""
+data4:
+  ["GE0/0"]
+data5:
+  {}
+data6:
+  {}
+data7:
+
+

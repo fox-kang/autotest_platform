@@ -1,0 +1,161 @@
+templateId:
+  810106781663360
+data1:
+  "searchCondition": ""
+  "taskType": null
+  "status": null
+  "systemData": null
+  "sortName": "modified_time"
+  "sortWay": "desc"
+  "reportTemplateGroupId": 1
+  "currentPage": 1
+  "itemsPerPage": 20
+data2:
+  "groupDesc": ""
+  "groupName": "1"
+  "id": 0
+  "parentId": 1
+data3:
+  "groupDesc": ""
+  "groupName": "TEST"
+  "id": 810105439486080
+  "parentId": 1
+data4:
+  "groupIds": [
+    810105439486080
+  ]
+data5:
+  "createdTime": ""
+  "footerImageId": 0
+  "backgroundPosition": "{\"x\":0,\"y\":0}"
+  "backgroundImageId": 611260215328768
+  "chartDrawer": false
+  "autoCreateTitle": false
+  "templateName": "1"
+  "templateGroupId": 2
+  "templateGroup": [
+    2
+  ]
+  "headerImageOpen": false
+  "headerImageId": 0
+  "headerImagePlace": 0
+  "headerTextOpen": false
+  "headerTextPlace": 2
+  "headerText": ""
+  "footerNumberPlace": 2
+  "templateHigh": 0
+  "paperSize": "A4"
+  "templateType": 1
+  "reportTemplateDataList": []
+data6:
+  "dataTimeRangBeans": [
+    {
+      "startTime": 1700755200000,
+      "endTime": 1700818771169
+    }
+  ]
+  "reportTemplateId": 810106781663360
+  "sign": 0
+data7:
+  "createdTime": 1700818653718
+  "footerImageId": 0
+  "backgroundPosition": "{\"x\":0,\"y\":0}"
+  "backgroundImageId": 611260215328768
+  "chartDrawer": false
+  "autoCreateTitle": false
+  "templateName": "1"
+  "templateGroupId": 2
+  "templateGroup": [
+    2
+  ]
+  "headerImageOpen": false
+  "headerImageId": 0
+  "headerImagePlace": 0
+  "headerTextOpen": false
+  "headerTextPlace": 2
+  "headerText": ""
+  "footerNumberPlace": 2
+  "templateHigh": 0
+  "paperSize": "A4"
+  "templateType": 1
+  "reportTemplateDataList": []
+  "id": 810106781663360
+data8:
+  "dataTimeRangBeans": [
+    {
+      "startTime": 1700815397032,
+      "endTime": 1700818997032
+    }
+  ]
+  "reportTemplateType": 1
+  "reportTemplateId": 810106781663360
+data9:
+  "planReportBeans": [
+    {
+      "labelName": "0",
+      "attachment": 1,
+      "dataRange": "1h",
+      "dataRangeAccurate": "",
+      "emailContext": "",
+      "emailSubject": "",
+      "endTime": 0,
+      "fileFormat": 1,
+      "generateCycle": 0,
+      "generateMoment": "",
+      "generateMomentAccurate": "",
+      "reportStrategy": 1,
+      "saveTime": 36,
+      "startTime": 0,
+      "emailRecipients": [],
+      "sendMethod": 0,
+      "emailAddress": [],
+      "emailAddressString": ""
+    },
+    {
+      "labelName": "1",
+      "attachment": 0,
+      "dataRange": "1h",
+      "dataRangeAccurate": "",
+      "emailContext": "",
+      "emailSubject": "",
+      "endTime": 0,
+      "fileFormat": 1,
+      "generateCycle": 0,
+      "generateMoment": "",
+      "generateMomentAccurate": "",
+      "reportStrategy": 1,
+      "saveTime": 36,
+      "startTime": 0,
+      "emailRecipients": [],
+      "sendMethod": 0,
+      "emailAddress": [],
+      "emailAddressString": ""
+    },
+    {
+      "labelName": "2",
+      "attachment": 0,
+      "dataRange": "1h",
+      "dataRangeAccurate": "",
+      "emailContext": "",
+      "emailSubject": "",
+      "endTime": 0,
+      "fileFormat": 1,
+      "generateCycle": 0,
+      "generateMoment": "",
+      "generateMomentAccurate": "",
+      "reportStrategy": 1,
+      "saveTime": 36,
+      "startTime": 0,
+      "emailRecipients": [],
+      "sendMethod": 0,
+      "emailAddress": [],
+      "emailAddressString": ""
+    }
+  ]
+  "templateId": 810106781663360
+data10:
+  "reportTemplateId": 810106781663360
+data11:
+  "reportTemplateIds": [
+    810112729186432
+  ]

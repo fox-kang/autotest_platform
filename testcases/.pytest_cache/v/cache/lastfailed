@@ -1,0 +1,8 @@
+{
+  "test_002_permission.py::Test_login::test_login": true,
+  "test_002_permission.py::Test_permission::test_login": true,
+  "test_001_login.py::Test_login::test_login[admin-admin-200]": true,
+  "test_001_login.py::Test_login::test_login[admin-admin]": true,
+  "test_001_login.py::Test_login::test_login[rayleigh-25508efd49dd516c452b5c8728133a62531dfab4bddfcd10fb77bb4b8402578ba2617ccfc2ff26019bbf2222dd03dac63bce2282e9c6025f8b5174ea08e2f04355175e043ca293bba4de2199de226226ae962a5a66a5c9a0f15785e462b99a77dc1753dc955c8120d31c8efe4533b7cc53e155f36ed613c4e730089e9a840e7d]": true,
+  "test_001_login.py": true
+}

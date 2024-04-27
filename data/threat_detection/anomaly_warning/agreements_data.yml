@@ -1,0 +1,61 @@
+alarmID:
+  100048383
+data1:
+  "alarmType": 2
+  "protocols": []
+  "serverity": []
+  "idsTypes": []
+  "parentTypes": null
+  "group": true
+  "keyword": ""
+  "disposeTypes": [
+    0,
+    1
+  ]
+  "deviceIdList": [
+    100000001
+  ]
+  "from": 0
+  "size": 20
+  "orderBy": "start_time"
+  "orderSort": "desc"
+  "startTime": 1700708871187
+  "endTime": 1700795271187
+data2:
+  "protocols": [
+    "netbios-dgm"
+  ]
+  "keyword": ""
+  "deviceIdList": [
+    100000001
+  ]
+  "idsTypes": [
+    1004
+  ]
+  "from": 0
+  "size": 20
+  "orderBy": "start_time"
+  "orderSort": "desc"
+  "startTime": 1700708983568
+  "endTime": 1700795383568
+data3:
+  [
+    {
+      "alarmId": 100048780,
+      "description": "",
+      "disposeType": 1
+    }
+  ]
+data4:
+  [
+    {
+      "acceptType": 2,
+      "deviceId": 100000001,
+      "dstIp": "192.168.0.255",
+      "dstMac": "ff:ff:ff:ff:ff:ff",
+      "prototol": "netbios-dgm",
+      "srcIp": "192.168.0.150",
+      "srcMac": "00:0c:29:e1:ec:84",
+      "srcSecurityDomain": ""
+    }
+  ]

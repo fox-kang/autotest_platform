@@ -1,0 +1,33 @@
+severity:
+  ?severity=severity&
+data1:
+  "alarmTypes": [
+    "intrusionDetection"
+  ]
+data2:
+  "currentPage": 1
+  "isSystem": 1
+  "itemsPerPage": 30
+  "name": ""
+  "dataSource": 2
+data3:
+  "currentPage": 1
+  "templateId": null
+  "itemsPerPage": 20
+  "keyword": ""
+  "enabled": null
+  "orderBy": "asc"
+  "orderedField": "id"
+  "templateType": 1
+  "dataSource": 2
+id:
+  ?id=100121
+data4:
+  "ruleIds": [
+    100121,
+    100122,
+    100123
+  ]
+  "enabled": 1 # 0 禁用  1使能
+  "severityId": ""
+  "module": "IDS_SYSTEM"

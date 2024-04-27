@@ -1,0 +1,29 @@
+data1:
+  "keyword": ""
+  "currentPageNum": 1
+  "sizePerPage": 20
+  "orderedField": "total"
+  "orderBy": "desc"
+  "appType": []
+  "applyType": []
+  "applyTag": []
+  "timeType": 1
+  "startTime": 1700723894196
+  "endTime": 1700727494196
+data2:
+  "appType": []
+  "applyType": []
+  "applyTag": []
+  "timeType": 1
+  "n": 5
+  "startTime": 1700723894196
+  "endTime": 1700727494196
+data3:
+  "timeType": 1
+  "startTime": 1700723894196
+  "endTime": 1700727494196
+data4:
+  "dictionaryName": "applyType"
+  "orderBy": "asc"
+  "orderedField": "id"
+

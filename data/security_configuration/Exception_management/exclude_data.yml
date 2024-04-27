@@ -1,0 +1,51 @@
+data1:
+  policiesGroupIds: ''
+  policiesIds: ''
+  typeId: 1
+data2:
+  currentPageNum: 1
+  deviceId: 100000001
+  enable: ''
+  endTime: null
+  keyword: ''
+  orderSort: desc
+  orderby: modifytime
+  proto: ''
+  ruleDataSource: null
+  ruleRecordSource: null
+  sizePerPage: 20
+  startTime: null
+  status: ''
+data3:
+  keyword: a
+  limitNumber: 10
+data4:
+  addrType: ipv4
+  dst: 213.53.126.3
+  dstPort: any
+  enable: 1
+  id: null
+  policiesDevices:
+  - deviceId: 100000001
+    excludePolicyId: ''
+  proto: any
+  ruleDataSource: null
+  ruleId: any
+  ruleRecordSource: null
+  src: 213.53.126.3
+  srcPort: any
+  status: idle
+data5:
+  addrType: mac
+  dst: any
+  dstPort: any
+  id: 100000001
+  policiesDevices:
+  - deviceId: 100000001
+    excludePolicyId: 100000001
+  proto: any
+  ruleId: 120104705
+  src: any
+  srcPort: any
+data6:
+  policyIdStr: '100000001'

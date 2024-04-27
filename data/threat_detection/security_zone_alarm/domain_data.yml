@@ -1,0 +1,64 @@
+alarmID:
+  100048628
+data1:
+  "alarmType": 6
+  "protocols": []
+  "serverity": []
+  "idsTypes": []
+  "parentTypes": null
+  "group": true
+  "keyword": ""
+  "disposeTypes": [
+    0,
+    1
+  ]
+  "deviceIdList": [
+    100000001
+  ]
+  "from": 0
+  "size": 20
+  "orderBy": "start_time"
+  "orderSort": "desc"
+  "startTime": 1700703666048
+  "endTime": 1700790066048
+data2:
+  "needGroupAlarm": true
+  "types": [
+    1002
+  ]
+  "tsaTypes": null
+  "parentTypes": null
+  "startTime": 1700703666048
+  "endTime": 1700790066048
+  "deviceIdList": [
+    100000001
+  ]
+data3:
+  "dstIp": "166.161.16.230"
+  "dstMac": "00:c0:a8:f2:bf:fb"
+  "latestTime": 1700791862774
+  "protocol": "modbus"
+  "srcIp": "192.168.66.235"
+  "srcMac": "00:0c:29:6b:2d:28"
+  "startTime": 1700791862774
+data4:
+  [
+    {
+      "alarmId": 100048628,
+      "description": "",
+      "disposeType": 1
+    }
+  ]
+data5:
+  [
+    {
+      "acceptType": 7,
+      "deviceId": 100000001,
+      "dstIp": "166.161.16.230",
+      "dstMac": "00:c0:a8:f2:bf:fb",
+      "prototol": "modbus",
+      "srcIp": "192.168.66.235",
+      "srcMac": "00:0c:29:6b:2d:28",
+      "srcSecurityDomain": "192AA"
+    }
+  ]

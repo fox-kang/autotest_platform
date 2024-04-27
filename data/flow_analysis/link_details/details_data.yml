@@ -1,0 +1,8 @@
+data1:
+  "currentPageNum": 1
+  "sizePerPage": 20
+  "direction": ""
+  "protocols": []
+  "keyword": ""
+data2:
+  {}  # 无属性

@@ -1,0 +1,50 @@
+alarmID:
+  100048505
+data1:
+  "alarmType": 5
+  "protocols": []
+  "serverity": []
+  "idsTypes": []
+  "parentTypes": null
+  "group": true
+  "keyword": ""
+  "disposeTypes": [
+    0,
+    1
+  ]
+  "deviceIdList": [
+    100000001
+  ]
+  "from": 0
+  "size": 20
+  "orderBy": "latest_time"
+  "orderSort": "desc"
+  "startTime": 1700710932968
+  "endTime": 1700797332968
+data2:
+  "needGroupAlarm": true
+  "types": [
+    38
+  ]
+  "tsaTypes": null
+  "parentTypes": null
+  "startTime": 1700710932968
+  "endTime": 1700797332968
+  "deviceIdList": [
+    100000001
+  ]
+data3:
+  [
+    {
+      "alarmId": 100048505,
+      "description": "",
+      "disposeType": 1
+    }
+  ]
+data4:
+  "datagram": "000c296b2d2800c0a8f2bffb0800450000280fea00002b06c4cba6a110e6c0a842eb01f60a168a75fa4cf1ece35a50100ffb7ea80000000000000000,00c0a8f2bffb000c296b2d28080045000034fd9b40008006420dc0a842eba6a110e60a1601f6f1ece35a8a75fa565018fa5d931f0000000000000006010100000001"
+  "dstIp": "166.161.16.230"
+  "dstMac": "00:c0:a8:f2:bf:fb"
+  "srcIp": "192.168.66.235"
+  "srcMac": "00:0c:29:6b:2d:28"
+  "timestamp": 1700789095102

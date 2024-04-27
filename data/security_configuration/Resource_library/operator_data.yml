@@ -1,0 +1,42 @@
+types:
+  -types
+data1:
+  "endTime": null
+  "startTime": null
+  "currentPageStart": 1
+  "itemsPerPage": 20
+  "enabled": null
+  "isIndustry": null
+  "custom": null
+  "param": ""
+  "orderBy": "desc"
+  "orderField": "modify_time"
+data2:
+  "custom": 1
+  "description": ""
+  "enabled": 0
+  "id": null
+  "is_industry": 0
+  "layer": 4
+  "name": "TEST1"
+  "traprotocol": ""
+  "xpath_name": "aadadawdad"  # 标识符
+  "enableProtocolTcp": 1
+  "enableProtocolUdp": 1
+  "tcpPort": "1"
+  "udpPort": "1"
+data3:
+  "custom": 0
+  "description": "A21（A21-1x Air Interface Signalling）协议是一种用于车辆通信和车联网的无线通信协议，主要用于车辆与道路设施、信号灯等智能交通设施之间的通信。"
+  "enabled": 1
+  "id": 97
+  "is_industry": 1
+  "layer": 2
+  "name": "A21"
+  "xpath_name": "a21"
+  "enableProtocolTcp": 0
+  "enableProtocolUdp": 1
+  "tcpPort": ""
+  "udpPort": "23272"
+data4:
+  "ids": "100000001"

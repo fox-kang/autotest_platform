@@ -1,0 +1,67 @@
+alarmID:
+  100048383
+filterFlag:
+  ?filterFlag=true
+data1:
+  "protocol": ""
+  "keyword": ""
+  "disposeTypes": [
+    0,
+    1
+  ]
+  "deviceIdList": [
+    100000001
+  ]
+  "from": 0
+  "size": 20
+  "orderBy": "start_time"
+  "orderSort": "desc"
+  "startTime": 1700705703984
+  "endTime": 1700792103984
+data2:
+  "needGroupAlarm": true
+  "types": [
+    1003
+  ]
+  "startTime": 1700706396028
+  "endTime": 1700792796028
+  "deviceIdList": [
+    100000001
+  ]
+data3:
+  "ip": "192.168.66.235"
+  "mac": "00:0c:29:6b:2d:28"
+  "protocols": []
+  "keyword": ""
+  "deviceIdList": [
+    100000001
+  ]
+  "idsTypes": [
+    1003
+  ]
+  "from": 0
+  "size": 20
+  "orderBy": "start_time"
+  "orderSort": "desc"
+  "startTime": 1700706396028
+  "endTime": 1700792796028
+data4:
+  [
+    {
+      "alarmId": 100048383,
+      "description": "",
+      "disposeType": 1
+    }
+  ]
+data5:
+  [
+    {
+      "acceptType": 1,
+      "deviceId": 100000001,
+      "dstIp": null,
+      "dstMac": null,
+      "srcIp": "192.168.66.235",
+      "srcMac": "00:0c:29:6b:2d:28",
+      "srcSecurityDomain": ""
+    }
+  ]

@@ -1,0 +1,133 @@
+data1:
+  "currentPageNum": 1
+  "deviceId": 100000001
+  "orderBy": "desc"
+  "orderedField": "id"
+  "sizePerPage": 20
+  "start": 0
+data2:
+  "common": {
+    "deviceIds": [
+      100000001
+    ],
+    "endTime": 1700615597835,
+    "startTime": 1692839597835
+  }
+  "assetScope": {
+    "enable": true
+  }
+  "protocolScope": {
+    "enable": false
+  }
+  "flowLearnScope": {
+    "enable": false
+  }
+  "linkLearnScope": {
+    "enable": false
+  }
+  "protocolLearnScope": {
+    "datatype": 1,
+    "enable": false,
+    "protoclIds": []
+  }
+data3:
+  "common": {
+    "deviceIds": [
+      100000001
+    ],
+    "endTime": 1704436907950,
+    "startTime": 1704435107950
+  }
+  "assetScope": {
+    "enable": false
+  }
+  "protocolScope": {
+    "enable": false
+  }
+  "flowLearnScope": {
+    "enable": false
+  }
+  "linkLearnScope": {
+    "enable": false
+  }
+  "protocolLearnScope": {
+    "datatype": 1,
+    "enable": true,
+    "protoclIds": [
+      83,
+      33,
+      9,
+      84,
+      70,
+      66,
+      56,
+      30,
+      51,
+      864,
+      58,
+      5,
+      45,
+      47,
+      2035,
+      78,
+      72,
+      81,
+      22,
+      171,
+      211,
+      26,
+      2002,
+      10,
+      32,
+      71,
+      88,
+      814,
+      67,
+      1014,
+      21,
+      55,
+      41,
+      116,
+      52,
+      73,
+      49,
+      2033,
+      86,
+      1015,
+      2052,
+      2001,
+      44,
+      741,
+      24,
+      14,
+      858,
+      297,
+      65,
+      75,
+      54,
+      53,
+      1012,
+      4,
+      40,
+      100000000,
+      92,
+      608,
+      6,
+      144,
+      1013,
+      42,
+      637,
+      2374,
+      1016,
+      883,
+      82,
+      334,
+      50,
+      74,
+      46,
+      23,
+      982,
+      34,
+      25
+    ]
+  }

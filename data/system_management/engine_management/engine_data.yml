@@ -1,0 +1,127 @@
+data1:
+  "currentPageNum": 1
+  "keyword": ""
+  "lastNum": 0
+  "orgId": 1
+  "orderBy": "desc"
+  "orderedField": "name"
+  "sizePerPage": 20
+data2:
+  {
+    "id": 100000001
+  }
+data3:
+  "deviceBean": {
+    "device_group_id": 5,
+    "id": 0,
+    "description": "",
+    "is_active": 1,
+    "deviceTypeList": [
+      {
+        "deviceTypeId": 1
+      }
+    ],
+    "host": "172.16.6.6",
+    "port": 10443,
+    "name": "1111",
+    "position": "",
+    "safe_area": "",
+    "is_insight_enabled": 1,
+    "monitorTemplateList": []
+  }
+  "deviceToExpandBean": {
+    "trdpConf": {
+      "id": 0,
+      "enable": 2,
+      "trdpOwnIp": "",
+      "trdpDstGroupIp": "",
+      "trdpOwnGroupIp": "",
+      "trdpDateComid": 0,
+      "trdpHeartComid": 0
+    },
+    "deviceId": 0,
+    "protocolIds": "100000001,100000003",
+    "filterMode": "exclude",
+    "target": "",
+    "aggAlert": true,
+    "intervalAlert": 1800,
+    "aggAudit": true,
+    "intervalAudit": 1800
+  }
+  "deviceProtectTemplateBean": {
+    "templateId": null
+  }
+data4:
+  "deviceBean": {
+    "device_group_id": 5,
+    "id": 100000001,
+    "description": "localhost",
+    "is_active": 1,
+    "deviceTypeList": [
+      {
+        "deviceTypeId": 1
+      }
+    ],
+    "host": "10.0.8.6",
+    "port": 10443,
+    "name": "TSA",
+    "position": "",
+    "safe_area": "",
+    "is_insight_enabled": 1,
+    "monitorTemplateList": []
+  }
+  "deviceToExpandBean": {
+    "trdpConf": {
+      "id": 100000001,
+      "enable": 2,
+      "trdpOwnIp": "10.0.8.6",
+      "trdpDstGroupIp": "",
+      "trdpOwnGroupIp": "",
+      "trdpDateComid": 0,
+      "trdpHeartComid": 0
+    },
+    "deviceId": 100000001,
+    "protocolIds": "0",
+    "filterMode": "exclude",
+    "target": "",
+    "aggAlert": true,
+    "intervalAlert": 10,
+    "aggAudit": true,
+    "intervalAudit": 10
+  }
+  "deviceProtectTemplateBean": {
+    "templateId": 100000001
+  }
+data5:
+  "enable": 1 # 0禁用 1启用
+  "idList": [
+    100000003
+  ]
+host:
+  ?host=172.6.6.6
+data6:
+  "host": "172.16.6.6"
+  "hwName": "disk"
+  "thresholdValue": 20
+  "status": "0"
+  "pattern": "percentage"
+id:
+  ?id=100000003
+data7:
+  "deviceId": 100000001
+taskId:
+  ?taskId=100000001
+violationlLink:
+  ?violationlLink=violation_link
+data8:
+  "level": "2"
+  "description": "异常通信链路"
+  "alertSeverityId": 2
+  "ruleName": "异常通信链路"
+data9:
+  "idstr": "100000004"
+  "force": "false" # true 强制删除
+data10:
+  "ids": ""
+  "containPolicy": "true"
+  "containCustomProtocols": "true"

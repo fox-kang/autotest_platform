@@ -1,0 +1,67 @@
+data1:
+  "alarmType": 4
+  "protocols": []
+  "serverity": []
+  "idsTypes": []
+  "parentTypes": null
+  "group": true
+  "keyword": ""
+  "disposeTypes": [
+    0,
+    1
+  ]
+  "deviceIdList": [
+    100000002
+  ]
+  "from": 0
+  "size": 20
+  "orderBy": "start_time"
+  "orderSort": "desc"
+  "startTime": 1700720748952
+  "endTime": 1700807148952
+data2:
+  "needGroupAlarm": true
+  "types": [
+    36,
+    1005
+  ]
+  "tsaTypes": null
+  "parentTypes": null
+  "startTime": 1700720748952
+  "endTime": 1700807148952
+  "deviceIdList": [
+    100000002
+  ]
+data3:
+  "deviceId": 100000001
+  "srcIp": "192.168.10.27"
+  "srcMac": "00:e0:4c:42:87:fa"
+  "dstIp": "192.168.10.30"
+  "dstMac": "00:50:56:42:b9:d9"
+  "protocol": "tcp"
+  "direction": "S_to_C"
+data4:
+  "id": 100000219
+  "src_ip": "192.168.10.27"
+  "src_mac": "00:e0:4c:42:87:fa"
+  "dst_ip": "192.168.10.30"
+  "dst_mac": "00:50:56:42:b9:d9"
+  "protocol": "tcp"
+  "type": "pps"
+  "direction": "S_to_C"
+  "upper_flag": true
+  "bps_upper": 617
+  "bps_dead_zone": 100
+  "bps_duration": 30
+  "pps_upper": 8
+  "pps_dead_zone": 100
+  "pps_duration": 30
+  "alert_severity_id": 4
+  "rule_name": "异常通信流量"
+  "rate_flag": true
+  "rate_change": 20
+  "rate_severity_id": 1
+  "rate_description": "流量速率突变"
+  "enable": 1
+  "device_id": 100000001
+  "flag": true

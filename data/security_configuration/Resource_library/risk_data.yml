@@ -1,0 +1,48 @@
+page:
+  page
+path2:
+  save
+path3:
+  enable
+path4:
+  delete
+path5:
+  modify
+path6:
+  configuration
+data1:
+  "keyWord": ""
+  "currentPageNum": 1
+  "sizePerPage": 20
+  "dataSource": ""
+  "severity": []
+  "enable": ""
+  "orderBy": "desc"
+  "orderedField": "modify_time"
+data2:
+  "id": null
+  "port": 1
+  "application": ""
+  "description": ""
+  "method": ""
+  "proto": "any"
+  "severity": "low"
+  "enable": 0
+data3:
+  "ids": [
+    10001
+  ]
+  "status": 1 # 1使能 0 禁用
+data4:
+  "ids": [
+    10001
+  ]
+data5:
+  "id": 10001
+  "port": 1
+  "application": ""
+  "description": ""
+  "method": ""
+  "proto": "any"
+  "severity": "low"
+  "enable": 0

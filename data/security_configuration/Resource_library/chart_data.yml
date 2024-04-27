@@ -1,0 +1,120 @@
+data1:
+  "currentPage": 1
+  "itemsPerPage": 20
+  "chartGroupId": 1
+  "insertion": false
+  "searchCondition": ""
+  "sortName": "chartName"
+  "sortWay": "desc"
+data2:
+  "chartId": ""
+  "startTime": 0
+  "endTime": 0
+data3:
+  "fieldFunction": 3
+data4:
+  "dataTimeRangList": [
+    {
+      "endTime": 0,
+      "startTime": 0
+    }
+  ]
+  "latelyTime": "5m"
+  "indexName": "tb_audit_*"
+  "acrossField": ""
+  "acrossName": ""
+  "acrossSort": "desc"
+  "acrossTop": 10
+  "chartType": "event_list"
+  "forecast": 0
+  "forecastLength": 2
+  "screenContext": "[]"
+  "serialField": ""
+  "serialStyle": ""
+  "titleDirection": 0
+  "verticalField": ""
+  "verticalName": ""
+  "verticalStatistics": ""
+data5:
+  "acrossField": ""
+  "acrossName": ""
+  "acrossSort": "desc"
+  "acrossTop": 10
+  "chartType": "event_list"
+  "dataTimeRangList": [
+    {
+      "endTime": 0,
+      "startTime": 0
+    }
+  ]
+  "latelyTime": "5m"
+  "forecast": 0
+  "forecastLength": 2
+  "indexName": "tb_audit_*"
+  "screenContext": "[]"
+  "serialField": ""
+  "serialStyle": ""
+  "titleDirection": 0
+  "verticalField": ""
+  "verticalName": ""
+  "verticalStatistics": ""
+data6:
+  "id": ""
+  "chartName": "1"
+  "chartDesc": ""
+  "chartGroupId": 1
+  "acrossField": ""
+  "acrossName": ""
+  "acrossSort": ""
+  "acrossTop": 10
+  "beginTime": 0
+  "chartStylesBean": {}
+  "chartTheme": ""
+  "chartType": "event_list"
+  "endTime": 0
+  "forecast": 0
+  "forecastLength": 2
+  "headContext": "[]"
+  "indexName": "tb_audit_*"
+  "latelyTime": "5m"
+  "screenContext": "[]"
+  "serialField": ""
+  "serialStyle": ""
+  "titleDirection": 0
+  "variableValue": ""
+  "verticalField": ""
+  "verticalName": ""
+  "verticalStatistics": ""
+ids:
+  807883615993984
+data7:
+  "id": 807884287082624
+  "chartName": "2"
+  "chartDesc": ""
+  "chartGroupId": 1
+  "acrossField": ""
+  "acrossName": ""
+  "acrossSort": ""
+  "acrossTop": 10
+  "beginTime": 0
+  "chartStylesBean": {}
+  "chartTheme": ""
+  "chartType": "event_list"
+  "endTime": 0
+  "forecast": 0
+  "forecastLength": 2
+  "headContext": "[]"
+  "indexName": "tb_audit_*"
+  "latelyTime": "5m"
+  "screenContext": "[]"
+  "serialField": ""
+  "serialStyle": ""
+  "titleDirection": 0
+  "variableValue": ""
+  "verticalField": ""
+  "verticalName": ""
+  "verticalStatistics": ""
+data8:
+  "groupIds": [
+    807884287082624
+  ]

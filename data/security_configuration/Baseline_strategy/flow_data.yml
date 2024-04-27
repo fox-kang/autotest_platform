@@ -1,0 +1,110 @@
+data1:
+  alert_severity_id: 2
+  bps_dead_zone: 5
+  bps_duration: 30
+  bps_upper: 1
+  device_id: 100000001
+  direction: S_to_C
+  dst_ip: 192.168.74.30
+  dst_mac: 64:8E:28:2C:23:B8
+  enable: 1
+  flag: false
+  id: null
+  pps_dead_zone: 100
+  pps_duration: 30
+  pps_upper: 10
+  protocol: modbus
+  rate_change: 100
+  rate_description: 流量速率突变
+  rate_flag: false
+  rate_severity_id: 2
+  rule_name: 异常通信流量
+  src_ip: 192.168.74.31
+  src_mac: FF:F7:49:14:69:B4
+  type: pps
+  upper_flag: true
+data2:
+  currentPageNum: 1
+  deviceIds:
+  - 100000001
+  enable: ''
+  keyWord: ''
+  orderBy: desc
+  orderedField: modified_time
+  sizePerPage: 20
+  sourceTypes: []
+  status: []
+data3:
+  alert_severity_id: 2
+  bps_dead_zone: 5
+  bps_duration: 30
+  bps_upper: 1
+  ids:
+  - 100000002
+  - 100000001
+  pps_dead_zone: 5
+  pps_duration: 30
+  pps_upper: 1
+  rate_change: 100
+  rate_flag: true
+  rate_severity_id: 2
+  type: pps
+  upper_flag: true
+data4:
+  ids: 100000002,100000001
+data5:
+  ids: 100000002,100000001
+data6:
+  ids:
+  - 100000002
+  - 100000001
+data7:
+  alert_severity_id: 2
+  bps_dead_zone: 5
+  bps_duration: 30
+  bps_upper: 1
+  device_id: 100000001
+  direction: S_to_C
+  dst_ip: ''
+  dst_mac: BC:1C:EC:4B:90:44
+  enable: 1
+  flag: false
+  id: 100001278
+  pps_dead_zone: 5
+  pps_duration: 30
+  pps_upper: 1
+  protocol: 100bao
+  rate_change: 100
+  rate_description: 流量速率突变
+  rate_flag: true
+  rate_severity_id: 2
+  rule_name: 异常通信流量
+  src_ip: ''
+  src_mac: 58:74:F1:EF:9D:AB
+  type: pps
+  upper_flag: true
+data8:
+  alert_severity_id: 2
+  bps_dead_zone: 5
+  bps_duration: 30
+  bps_upper: 1
+  device_id: 100000001
+  direction: S_to_C
+  dst_ip: 192.168.74.30
+  dst_mac: 00:0c:29:69:ed:5d
+  enable: 1
+  flag: false
+  id: null
+  pps_dead_zone: 100
+  pps_duration: 30
+  pps_upper: 10
+  protocol: modbus
+  rate_change: 100
+  rate_description: 流量速率突变
+  rate_flag: false
+  rate_severity_id: 2
+  rule_name: 异常通信流量
+  src_ip: 192.168.74.31
+  src_mac: 00:0c:29:9b:ec:c3
+  type: pps
+  upper_flag: true
